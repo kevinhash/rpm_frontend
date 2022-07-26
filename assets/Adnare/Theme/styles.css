@@ -31243,3 +31243,6 @@ select {
   overflow: hidden !important;
   text-overflow: ellipsis;
 }
+.cdk-focused {
+  outline-color: var(--radio-button-color);
+}
