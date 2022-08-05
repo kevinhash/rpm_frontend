@@ -31246,3 +31246,6 @@ select {
 .cdk-focused {
   outline-color: var(--radio-button-color);
 }
+.ant-table-tbody > tr.ant-table-row:focus > td {
+  background: #FDF151;
+}

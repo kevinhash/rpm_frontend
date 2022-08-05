@@ -24774,7 +24774,9 @@ nz-switch {
 .ant-table-tbody > tr.ant-table-row:hover > td {
   background: #FDF151;
 }
-
+.ant-table-tbody > tr.ant-table-row:focus > td {
+  background: #FDF151;
+}
 /*.ant-table-tbody > tr.ant-table-row-selected > td {
   background: #a8adb3;
   border-color: rgba(0, 0, 0, 0.03);
