@@ -31357,3 +31357,17 @@ select {
 /*.ant-empty-normal {
   height: 297px;
 }*/
+.male {
+  color: #316dd1;
+  font-size: x-large;
+}
+
+.female {
+  color: #d131a8;
+  font-size: x-large;
+}
+
+.unknown-gender {
+  color: #757676;
+  font-size: x-large;
+}
