@@ -31340,7 +31340,7 @@ select {
     line-height: 1.5715;
     list-style: none;
     font-feature-settings: 'tnum';
-    min-height: 596px;
+    /*min-height: 596px;*/
     min-width: 1090px;
     max-width: 1000px;
     width: 100%;
